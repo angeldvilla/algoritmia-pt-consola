@@ -18,7 +18,7 @@ Por cada número de consulta, la aplicación mostrará:
 
 Asegúrate de tener lo siguiente instalado en tu sistema:
 
-- [Node.js](https://nodejs.org/) (v12 o superior)
+- [Node.js](https://nodejs.org/) (v18 o superior)
 
 ## Ejecución
 
