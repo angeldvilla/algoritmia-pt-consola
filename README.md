@@ -28,7 +28,7 @@ Sigue estos pasos para ejecutar la aplicación:
    - Puedes clonar este repositorio o descargar el archivo ZIP.
 
    ```bash
-   git clone https://github.com/tu-usuario/algoritmo-de-consultas.git
+   git clone https://github.com/tu-usuario/algoritmia-pt-consola.git
 
 
 2. **Navega al directorio del proyecto:**
